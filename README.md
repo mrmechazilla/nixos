@@ -1,4 +1,4 @@
-# NisOS
+# NixOS
 
 My personal reproducible **NixOS** configuration for my laptop.
 
